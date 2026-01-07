@@ -29,7 +29,7 @@ const Footer = () => {
                             © <Link href={"/"} className="hover:text-primary">Docsta</Link>. All rights reserved Created by
                             <Link href={"https://getnextjstemplates.com/"} target="_blank" className="hover:text-primary"> Getnextjstemplates.com</Link>
                             {" "}• Distributed by
-                            <Link href={"/https://themewagon.com/"} target="_blank" className="hover:text-primary"> ThemeWagon</Link>
+                            <Link href={"https://themewagon.com/"} target="_blank" className="hover:text-primary"> ThemeWagon</Link>
                             </p>
                         <div className="flex flex-wrap items-center row-gap-2 gap-x-5 justify-center">
                             {footerLink?.map((value: any, index: any) => {
